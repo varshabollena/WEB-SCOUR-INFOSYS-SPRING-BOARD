@@ -12,15 +12,15 @@
 * Finally this project, WebScour aims to address this problem by developing a modular and extensible web crawling system that forms the foundation for a distributed search engine. 
 
 # KEY CONCEPTS USED IN THE PROJECT :
-**1.	WEB CRAWLER :** A web crawler is a software program that automatically visits web pages starting from a given URL, downloads their content, and follows the links found on those pages.
+1. **	WEB CRAWLER :** A web crawler is a software program that automatically visits web pages starting from a given URL, downloads their content, and follows the links found on those pages.
 In this project, the crawler systematically navigates through websites, collects page data, and avoids revisiting the same URLs.
-**2.	WEB SCRAPING :** Web scraping is the process of extracting useful information from web pages such as text, links or metadata.
+2. **2.	WEB SCRAPING :** Web scraping is the process of extracting useful information from web pages such as text, links or metadata.
 In this project,the scraping is used to extract page content and hyperlinks using Python libraries like BeautifulSoup.
-**3.	SEARCH ENGINE :** A search engine is a system that collects web data, indexes it, and allows users to search for relevant information efficiently.
+3. **3.	SEARCH ENGINE :** A search engine is a system that collects web data, indexes it, and allows users to search for relevant information efficiently.
 In this project,the crawler acts as the foundation for building a search engine in future milestones.
-**4.	WEB SCOUR :** Webscour is a Python -based web crawling system designed to automatically crawl websites, extract links and content, and store the collected data.
+4. **4.	WEB SCOUR :** Webscour is a Python -based web crawling system designed to automatically crawl websites, extract links and content, and store the collected data.
 It is designed to be modular, scalable and extendable into a distributed crawler and search engine.
-**5.	DISTRIBUTED :** distributed means that the web crawling and data processing work is divided across multiple systems or processes instead of being handled by a single program or machine.
+5. **5.	DISTRIBUTED :** distributed means that the web crawling and data processing work is divided across multiple systems or processes instead of being handled by a single program or machine.
 
 # INDUSTRY USE CASE :
 **Why webscour is relevant for companies ?**
