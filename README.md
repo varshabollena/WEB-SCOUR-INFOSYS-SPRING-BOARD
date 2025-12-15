@@ -1,9 +1,9 @@
 
 # WebScour: A Distributed Web Crawler and Search Engine
 # PROBLEM STATEMENT :
-With the rapid growth of the internet, a huge amount of information is spread across millions of web pages. Manually searching, collecting and organizing this information is inefficient and time-consuming.
-There is a need for a lightweight, efficient and scalable web crawling system that can automatically traverse web pages, extract relevant links and content, and store the collected data for further processing and search operations.
-The challenge is to design and implement a Python-based web crawler that:
+* With the rapid growth of the internet, a huge amount of information is spread across millions of web pages. Manually searching, collecting and organizing this information is inefficient and time-consuming.
+* There is a need for a lightweight, efficient and scalable web crawling system that can automatically traverse web pages, extract relevant links and content, and store the collected data for further processing and search operations.
+* The challenge is to design and implement a Python-based web crawler that:
 	Starts from a given seed URL
 	Crawls web pages systematically
 	Avoids duplicate and irrelevant pages
