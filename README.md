@@ -4,12 +4,12 @@
 * With the rapid growth of the internet, a huge amount of information is spread across millions of web pages. Manually searching, collecting and organizing this information is inefficient and time-consuming.
 * There is a need for a lightweight, efficient and scalable web crawling system that can automatically traverse web pages, extract relevant links and content, and store the collected data for further processing and search operations.
 * The challenge is to design and implement a Python-based web crawler that:
-	Starts from a given seed URL
-	Crawls web pages systematically
-	Avoids duplicate and irrelevant pages
-	Works within defined limits(domain and page count)
-	Can be extended into a distributed crawler and search engine
-Finally this project, WebScour aims to address this problem by developing a modular and extensible web crawling system that forms the foundation for a distributed search engine. 
+1.	Starts from a given seed URL
+2.	Crawls web pages systematically
+3.	Avoids duplicate and irrelevant pages
+4.	Works within defined limits(domain and page count)
+5.	Can be extended into a distributed crawler and search engine
+* Finally this project, WebScour aims to address this problem by developing a modular and extensible web crawling system that forms the foundation for a distributed search engine. 
 
 # KEY CONCEPTS USED IN THE PROJECT :
 **1.	WEB CRAWLER :** A web crawler is a software program that automatically visits web pages starting from a given URL, downloads their content, and follows the links found on those pages.
